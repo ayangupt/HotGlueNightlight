@@ -1,3 +1,5 @@
+// 100% of this code was generated using chatGPT including debugging and different iterations of the code. 
+
 // Define the pins for the RGB LED, pencil LED, and photoresistor
 #define RED_PIN 3
 #define GREEN_PIN 5
